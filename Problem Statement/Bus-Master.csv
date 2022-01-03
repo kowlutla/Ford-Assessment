@@ -1,0 +1,10 @@
+Bus No,From,To,Starting Date,Starting Time,Journey Time,Total Stops,Type
+122S,Chennai,Bangalore,01-Aug-22,22:00,435 minutes,4,Superfast
+122A,Chennai,Bangalore,01-Aug-22,21:15,540 minutes,11,Normal
+146A,Chennai,Madurai,02-Aug-22,20:30,525 minutes,13,Normal
+146R,Madurai,Bangalore,02-Aug-22,14:00,600 minutes,19,Normal
+180A,Chennai,Goa,03-Aug-22,6:00,920 minutes,26,Normal
+180S,Chennai,Goa,03-Aug-22,12:00,690 minutes,15,Superfast
+201A,Chennai,Trichy,04-Aug-22,20:45,400 minutes,5,Normal
+201C,Trichy,Madurai,05-Aug-22,4:00,160 minutes,3,Normal
+202I,Chennai,Bangalore,06-Aug-22,6:00,540 minutes,4,Normal
