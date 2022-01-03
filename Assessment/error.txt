@@ -1,0 +1,2 @@
+BusDetail{busNo='202I', totalSeats=-2, totalCommonSeats=-3, totalWomanOnlySeats=-4, totalSpecialSeats=-5, availableCommonSeats=-6, availableWomanSeats=-8, availableSpecialSeats=0}
+BusDetail{busNo='2002_', totalSeats=24, totalCommonSeats=7, totalWomanOnlySeats=12, totalSpecialSeats=1, availableCommonSeats=26, availableWomanSeats=2, availableSpecialSeats=0}

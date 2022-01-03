@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Hibernate Validator-4.2.0" type="BeanValidation">
+    <properties version="4.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/hibernate-validator-annotation-processor-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/jaxb-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/hibernate-jpa-2.0-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/jsoup-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/hibernate-validator-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/joda-time-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/jaxb-impl-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/log4j-1.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

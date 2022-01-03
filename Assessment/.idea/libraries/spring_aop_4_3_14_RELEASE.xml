@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="spring-aop-4.3.14.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-aop-4.3.14.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-beans-4.3.14.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-context-4.3.14.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-context-support-4.3.14.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-core-4.3.14.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../All jars/spring/spring-expression-4.3.14.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

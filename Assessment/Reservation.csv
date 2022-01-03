@@ -1,0 +1,6 @@
+BusId, From, To, Date, Time, Pass Name, Age, Sex, Seat Number, Seat Preference
+122S,Chennai,Bangalore,01-Aug-2022,22:00,Sudeepthi,20,F,1,Normal
+180A,Chennai,Goa,03-Aug-2022,06:00,Deekshita,15,F,2,Woman 
+201A,Chennai,Trichy,04-Aug-2022,20:45,Kowlutla,21,M,3,Normal
+201C,Trichy,Madurai,05-Aug-2022,04:00,Hindu,10,F,4,Normal
+122S,Chennai,Bangalore,01-Aug-2022,22:00,Hari,24,M,5,Special
